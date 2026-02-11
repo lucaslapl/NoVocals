@@ -54,6 +54,21 @@ main #hero h3 {
 main #exemples {
   margin: 64px auto;
 }
+main #exemples h2 {
+  margin-top: 90px;
+}
+main #exemples img {
+  width: 350px;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  margin-right: 80px;
+}
+main #exemples .ex-descr {
+  font-size: 1.2em;
+}
+main #exemples .ex-descr p {
+  margin: 0 0 16px 0;
+}
 
 footer {
   width: 1400px;
