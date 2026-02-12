@@ -73,6 +73,15 @@ main #exemples .ex-descr p {
 main #exemples .ex-descr .fw-400 {
   font-weight: 400;
 }
+main #conclusion {
+  margin: 64px auto;
+}
+main #conclusion p {
+  font-size: 1.5em;
+  font-weight: 300;
+  color: #717171;
+  letter-spacing: 0.04em;
+}
 
 footer {
   width: 1400px;
