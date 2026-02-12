@@ -68,6 +68,10 @@ main #exemples .ex-descr {
 }
 main #exemples .ex-descr p {
   margin: 0 0 16px 0;
+  font-weight: 300;
+}
+main #exemples .ex-descr .fw-400 {
+  font-weight: 400;
 }
 
 footer {
